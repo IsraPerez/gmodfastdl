@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/freeman/oldtv_diffuse"	
+                "$bumpmap" "models/freeman/oldtv_norm"
+                  "$phongexponenttexture" "models/freeman/oldtv_norm"
+	"$halflambert" "0"
+	"$phong" "1"
+	"$phongboost" "1.2"
+	"$phongexponent" "3"
+	"$phongtint" "[0 0 0]"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[2.0 0.5 0.05]"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.8"
+
+	"$ambientocclusion" "1"
+	"$diffuseexp" "1"
+
+
+
+}

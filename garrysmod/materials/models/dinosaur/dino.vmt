@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\dinosaur/dino"
+	"$bumpmap" "models\dinosaur/dino_n"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[.1 0.2 2.3]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" ""							
+	"$rimlightboost" "0.1"
+}
