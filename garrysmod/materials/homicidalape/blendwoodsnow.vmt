@@ -1,0 +1,9 @@
+"WorldVertexTransition" 
+{ 
+   "$basetexture" "wood/woodwall009a" 
+   "$basetexture2" "nature/snowfloor002a" 
+   "%tooltexture" "wood/woodwall009a" 
+   "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0  translate 0 0" 
+   "$basetexturetransform2" "center .5 .5 scale 4 4 rotate 0 translate 0 0" 
+   "%keywords" "myBlend" 
+}

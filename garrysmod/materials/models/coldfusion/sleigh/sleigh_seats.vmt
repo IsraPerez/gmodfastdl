@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "custom textures/coldfusion/sleigh/sleigh_seats"
+	"$surfaceprop" "tile"
+}

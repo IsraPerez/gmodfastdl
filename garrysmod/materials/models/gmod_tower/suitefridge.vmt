@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/suitefridge"
+	"$model" 1
+	"$surfaceprop" "metal"
+
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/gmod_tower/suitefridge_mask"
+	"$envmaptint" "[ .5 .5 .5 ]"
+}

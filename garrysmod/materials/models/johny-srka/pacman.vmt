@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\johny-srka\pacman"
+	"model" 1
+	"$envmapmode" 1
+		
+}

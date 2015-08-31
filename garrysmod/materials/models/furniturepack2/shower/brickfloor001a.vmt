@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "brick/brickfloor001a"
+	"$surfaceprop" "brick"
+
+
+	"%keywords" "c17downtown"
+}

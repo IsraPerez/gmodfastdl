@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gmod_tower\suite\magicmouse"
+	"$bumpmap"	"models\gmod_tower\suite\imac_n"
+
+	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.1 0.1 0.7]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "300"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.15"
+}

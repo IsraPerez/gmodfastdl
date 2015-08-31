@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gmod_tower/CoffeeTable01_Diff"
+	"$bumpmap" "models/gmod_tower/CoffeeTable01_Norm"
+}
+

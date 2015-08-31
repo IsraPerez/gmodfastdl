@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "custom textures\coldfusion\sleigh\coldfusion_present_1"
+	"$surfaceprop" "tile"
+}

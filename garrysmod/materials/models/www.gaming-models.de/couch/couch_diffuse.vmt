@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/www.gaming-models.de/Couch/Couch_Diffuse"
+         $phongexponenttexture	"models/www.gaming-models.de/Couch/Couch_Specular"
+	 $phongboost		1.0
+
+		
+}

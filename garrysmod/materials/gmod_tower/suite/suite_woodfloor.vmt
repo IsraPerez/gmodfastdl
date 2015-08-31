@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gmod_tower/suite/suite_woodfloor"
+	"$bumpmap" "gmod_tower/suite/suite_woodfloor_bump"
+	"$surfaceprop" "Wood_Panel"
+	
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[ .05 .05 .05 ]"
+}

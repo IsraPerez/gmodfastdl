@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "custom textures\coldfusion\sleigh\christmas_sign"
+	"$surfaceprop" "metalpanel"
+}

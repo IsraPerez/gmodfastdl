@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gmod_tower\suite\imac_desktop"
+	"$selfIllum" "1"
+}

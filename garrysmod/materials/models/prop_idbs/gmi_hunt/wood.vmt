@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/prop_idbs/gmi_hunt/wood"
+	"$selfillum" 1
+}

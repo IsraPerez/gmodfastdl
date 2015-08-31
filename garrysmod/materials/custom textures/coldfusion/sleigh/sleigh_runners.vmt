@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "custom textures/coldfusion/sleigh/sleigh_runners"
+	"$surfaceprop" "SlipperyMetal"
+	"$model" 1
+
+}
+

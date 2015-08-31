@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\wilderness/Present1"
+	"$bumpmap" "models/wilderness/PresentA_normal"
+	 $phong 1
+	$phongexponent 12
+	$phongboost 1
+	$phongfresnelranges "[1 3 8]" 
+}

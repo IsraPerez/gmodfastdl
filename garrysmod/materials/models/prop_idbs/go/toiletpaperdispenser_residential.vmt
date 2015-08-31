@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+$baseTexture "models/prop_idbs/go/ToiletPaperDispenser_Residential"
+$envmap env_cubemap
+$envmapmask "models/prop_idbs/go/ToiletPaperDispenser_Residential_ref"
+$envmaptint "[1 1 1]"
+}

@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "custom textures/coldfusion/sleigh/sleigh_runners"
+	"$surfaceprop" "slipperymetal"
+
+}
+
