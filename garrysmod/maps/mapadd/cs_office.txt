@@ -1,0 +1,28 @@
+"0"
+{
+	"Entities"
+	{
+	
+		"1"
+		{
+			  "ClassName" 	 "prop_dynamic"
+			  "Pos" 	 "582.80651855469 -1820.2045898438 -334.40972900391 "
+			  "Ang" 	 "45.000076293945 0.00097551062935963 90.001411437988 "
+			  "Keyvalues"
+			 {
+				 "model" 	 "models/props_debris/wood_board03a.mdl"
+			 }
+		}
+		"2"
+		{
+			  "ClassName" 	 "prop_dynamic"
+			  "Pos" 	 "583.357421875 -1922.9318847656 -334.06378173828 "
+			  "Ang" 	 "44.891799926758 0.051458198577166 89.518905639648 "
+			  "Keyvalues"
+			 {
+				 "model" 	 "models/props_debris/wood_board03a.mdl"
+			 }
+		}
+		
+	}
+}
