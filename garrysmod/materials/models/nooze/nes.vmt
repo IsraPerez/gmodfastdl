@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/nooze/NES"
+	"$bumpmap" "models/nooze/NESn"
+	"$surfaceprop" "computer"
+	"$model" 1
+}

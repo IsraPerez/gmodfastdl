@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/nooze/bearhead"
+	"$surfaceprop" "armorflesh"
+	"$model" 1
+}

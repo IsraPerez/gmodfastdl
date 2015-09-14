@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/nooze/handle"
+	"$surfaceprop" "metal"
+	"$model" 1
+}

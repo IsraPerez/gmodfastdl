@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/nooze/morganzine"
+	"$surfaceprop" "paper"
+	"$model" 1
+}
