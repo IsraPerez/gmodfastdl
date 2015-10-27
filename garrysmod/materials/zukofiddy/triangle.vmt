@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "zukofiddy/triangle"
+	"$translucent" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}
