@@ -1,0 +1,13 @@
+"Refract"
+{
+	$dudvmap "models/debug/debugwhite"
+	$normalmap "models/debug/debugwhite"
+	$refractamount 0
+	$translucent 1
+	$bluramount 1
+
+	"Refract_DX60"
+	{
+		"$fallbackmaterial" "null"
+	}
+}
