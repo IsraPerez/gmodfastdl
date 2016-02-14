@@ -1,0 +1,8 @@
+// Icon mady by Pac_187
+"UnlitGeneric" 
+{ 
+	"$basetexture"		"pac/lightsaber_black_killicon" 
+	"$vertexcolor" 		1 
+	"$vertexalpha" 		1 
+	"$nolod" 			1 
+} 

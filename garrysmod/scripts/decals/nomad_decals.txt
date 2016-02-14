@@ -1,4 +1,0 @@
-"Modulus.Nomad"
-{
-	"modulus/decals/nomad" 	"1"
-}

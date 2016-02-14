@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "slaughtered/cure_glass"
+	"$surfaceprop" "glass"
+	"$translucent" "1"
+	"%keywords" "cstrike" 
+}
